@@ -1,0 +1,4 @@
+
+Ive been working with GPT this time and I\'92ve come to realize there\'92s room for applying this technology for a lot of projects. Theres a library that lets you code in python using the different models that OpenAI offers. In this investigation I realized that we could apply some of the past knowledge, for example we can fine-tune, embed and calculate the sentiment of a text.
+
+What I would propose would be a simple chatbot: For the Fine-Tuning, we would embed and Cluster the information to clarify it and to lower the use of more unnecessary tokens. With this fine tuning we could make the model know how to respond to different sentiments, by calculating the sentiment of each input and by that responding how we like.
